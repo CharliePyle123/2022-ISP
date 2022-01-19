@@ -31,7 +31,7 @@ while x == True:
 possible_outcomes = []
 def random_path():
     #to be set by user
-    portfolio_value = 80000
+    portfolio_value = 93
     year = 2022
     years_untill_retirement = 30
     
